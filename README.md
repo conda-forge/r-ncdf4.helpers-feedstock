@@ -1,11 +1,11 @@
-About r-ncdf4.helpers
-=====================
+About r-ncdf4.helpers-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ncdf4.helpers-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.r-project.org
 
 Package license: LGPL-2.1-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ncdf4.helpers-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains a collection of helper functions for dealing with 'NetCDF' files <https://www.unidata.ucar.edu/software/netcdf/> opened using 'ncdf4', particularly 'NetCDF' files that conform to the Climate and Forecast (CF) Metadata Conventions <http://cfconventions.org/Data/cf-conventions/cf-conventions-1.7/cf-conventions.html>.
 
